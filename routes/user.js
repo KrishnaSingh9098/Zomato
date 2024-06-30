@@ -25,8 +25,6 @@ router.post('/users',async(req,res)=>{
         res.send('user acc should be Created')
     }
 
- 
-  
 })
 
 

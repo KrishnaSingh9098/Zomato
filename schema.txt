@@ -1,0 +1,43 @@
+user schema :
+ {
+  "name":"biugbtvjyb",
+  "email":"mhkjcwehwiufe21655@gmail.com",
+  "passWord":"hjbgdc5687"
+}
+
+
+
+
+
+---  restarant schemna -----
+
+
+{
+    "name" : "BApu ki kutia ",
+    "address" : "Kolar Road Bhopal ",
+    "description" : "Wolrd bests cateory of cuisine ",
+    "image" :" jnjcn/url",
+    "contact": 9098921617
+},
+{
+  "name" : "Sharma FAst Food",
+    "address" : "New market ",
+    "description" : "Wolrd bests cateory of cuisine ",
+    "image" :" jnjcn/url",
+    "contact": 9098921617
+}
+
+
+
+
+------------------------   Produvct Schema  ------------------
+
+
+{
+  "name ": "RAS MALAI ",
+   "description": " MADE WITH PURE MILK ",
+   "price" : "400",
+   "image" : "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMSEhUTExIWFRUWFhUV
+   FRcYFxcVFRUVFRUXFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGhAQGy0lICUtLS0tLS8tL
+}
+

@@ -9,14 +9,13 @@ let restuarantSchema = mongoose.Schema({
     },
     description:{
         type:String
-cd
+
     },
     image:{
         type:String
     },
-    Contact:{
+    contact:{
         type:Number
-     
     }
   
 })

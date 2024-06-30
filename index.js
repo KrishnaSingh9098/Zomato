@@ -4,7 +4,7 @@ let app = express()
 let mongoose = require('mongoose')
 let userRoutes = require ('./routes/user')
 let loginRoutes = require('./routes/login')
-const RestuarantRoutes = require('./models/restuarant')
+const RestuarantRoutes = require('./routes/restuarant')
 mongoose.connect('mongodb://127.0.0.1:27017/user')
 
 app.use(express.json())
